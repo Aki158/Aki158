@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aki158rm&theme=gruvbox&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aki158&theme=gruvbox&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aki158)](https://github.com/Aki158/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aki158)](https://github.com/Aki158/github-profile-trophy)
 
