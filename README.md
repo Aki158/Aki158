@@ -1,12 +1,11 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 🧑‍💻 I'm a software engineer.
-- 🌱 I’m currently learning go!
 - 📫 How to reach me: [Twitter - @HK33608602](https://x.com/HK33608602)
 <br>
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,tailwind,bootstrap,figma,java,php,py,go,ruby,c,matlab,rails,aws,docker,nginx,git,github,githubactions,mysql,windows,ubuntu," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,tailwind,bootstrap,figma,java,php,py,go,ruby,cpp,c,matlab,rails,aws,docker,nginx,git,github,githubactions,mysql,windows,ubuntu," />
 <br>
 
 ## 🏃‍♀️ Activities
