@@ -1,7 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-- 🧑‍💻 I'm a software engineer.
-- 📫 How to reach me: [Twitter - @HK33608602](https://x.com/HK33608602)
-- 📝My study record: [weekly-report](https://github.com/Aki158/weekly-report)
+🧑‍💻 I'm a software engineer.
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
